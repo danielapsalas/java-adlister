@@ -9,11 +9,11 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 
 <html>
-<head>
-    <title>Profile</title>
-</head>
+<%@ include file="/partials/navbar.jsp" %>
 <body>
+
 <h1>Profile page</h1>
 
 </body>
+<%@ include file="/partials/footer.jsp" %>
 </html>

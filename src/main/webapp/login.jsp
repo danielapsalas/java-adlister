@@ -10,7 +10,9 @@
 <head>
     <title>Login</title>
 </head>
+<%@ include file="/partials/navbar.jsp" %>
 <body>
+
 <%--1.Build A Login Form
 
 a.Create two files, login.jsp and profile.jsp
@@ -47,4 +49,5 @@ d.Inside of login.jsp write some code to check the submmitted values. If the use
     }
 %>
 </body>
+<%@ include file="/partials/footer.jsp" %>
 </html>
