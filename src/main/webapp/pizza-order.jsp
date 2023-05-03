@@ -46,7 +46,7 @@
   <label for="delivery-address">Delivery Address:</label>
   <input type="text" name="delivery-address" id="delivery-address">
   <br>
-  <input type="submit" value="Place Order">
+  <input type="submit" value="Place-Order">
 </form>
 </body>
 </html>
